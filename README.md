@@ -1,5 +1,4 @@
 # npm-git-demo
-# <packagename>
 <Description of what the package does>
 ## Usage
 Install the package using npm :
